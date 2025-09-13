@@ -10,3 +10,14 @@
 # print(2 + 3)
 # print("2" + "3")
 # print("2" + 3)
+
+#სახ.  მნიშვნელობა
+# name = 1 + 1
+
+# print(name * name)
+
+# print(5 == 4)
+
+# name = "dachi"
+
+# print("Hello " + name)

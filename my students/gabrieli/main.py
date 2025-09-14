@@ -231,3 +231,19 @@
 #        False or True and True or True and False   
 #    ((1        (0)     (1)       (1)     (1)        0))
 # print(True and False or True and True or True and False)
+
+# # berdia bekauri
+# print("berdia " + "bekauri")
+
+# #.   true.  and    false == false
+# print(5 > 7 and 7 > 5)
+
+# print(5 > 2 and 6>7)
+
+# num = int(input("Enter a number: ")) # 20
+
+# #.    true    and     true == true
+# print(num > 16 and num % 2 == 0)
+
+#    true and false == false
+# print(True and False)

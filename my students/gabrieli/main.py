@@ -247,3 +247,8 @@
 
 #    true and false == false
 # print(True and False)
+
+# number = int(input("Enter a number: "))
+
+# for i in range(1, number + 1):
+#     print("Hello guy", str(i))

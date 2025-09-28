@@ -147,3 +147,10 @@
 # print("I live in " + city)
 # print("My favorite hobby is " + hobby)
 # print("Nice to meet you!")
+
+# num1 = 1
+# num2 = 2
+# num3 = 3
+# ...
+# num9 = 9
+

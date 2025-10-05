@@ -154,3 +154,6 @@
 # ...
 # num9 = 9
 
+# age = int(input("Enter your age: "))
+
+# print(age + 10)

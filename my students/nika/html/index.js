@@ -15,4 +15,6 @@
 // prompt
 
 
-const name = prompt("Enter your name")
+// const name = prompt("Enter your name")
+
+// const text1 = document.createElement("p", null, document.createElement("b", null, "hello from javascript"))

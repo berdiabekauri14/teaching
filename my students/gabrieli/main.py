@@ -252,3 +252,5 @@
 
 # for i in range(1, number + 1):
 #     print("Hello guy", str(i))
+
+print("Hello" * 5)

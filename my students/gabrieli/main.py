@@ -253,4 +253,13 @@
 # for i in range(1, number + 1):
 #     print("Hello guy", str(i))
 
-print("Hello" * 5)
+# print("Hello" * 5)
+
+# for i in range(1, 51):
+#     print(i)
+
+# for i in range(1, 101):
+#     print(i)
+
+# for i in range(50, 101, 3):
+#     print(i)

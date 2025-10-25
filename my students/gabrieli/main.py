@@ -263,3 +263,23 @@
 
 # for i in range(50, 101, 3):
 #     print(i)
+
+# while True:
+#     print("hello")
+
+# num = 1
+
+# while num <= 10:
+#     print(num)
+#     num += 1
+
+# num = 30
+
+# while num >= 1:
+#     print(num)
+#     num -= 1
+num = 1
+
+while num <= 10:
+    print(num)
+    num += 3

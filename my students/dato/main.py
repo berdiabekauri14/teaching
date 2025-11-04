@@ -163,3 +163,10 @@
 # name = "berdia"
 
 # print(name)
+
+# snake case
+# my_name = "berdia"
+
+# # camel case
+# Age = 12
+# age = 12

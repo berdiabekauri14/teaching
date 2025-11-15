@@ -278,8 +278,35 @@
 # while num >= 1:
 #     print(num)
 #     num -= 1
-num = 1
+# num = 1
 
-while num <= 10:
-    print(num)
-    num += 3
+# while num <= 10:
+#     print(num)
+#     num += 3
+
+# num = 1
+
+# while num <= 100:
+#     print(num)
+#     num += 3
+
+# num = 1
+
+# while num <= 50:
+#     print(num)
+#     num += 4
+
+# num = 1
+# skip_num = 1
+
+# while skip_num <= 40:
+#     skip_num2 = skip_num + 1
+
+# while num <= 40:
+#     print(num)
+#     (num) += skip_num2
+
+# num = 10
+
+# while num > 1:
+#     print(num)

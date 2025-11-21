@@ -310,3 +310,42 @@
 
 # while num > 1:
 #     print(num)
+
+# elif - else if - სხვა შემთხვევაში თუ...
+
+# num1 = int(input("Enter a number: "))
+# num2 = int(input("Enter a second number: "))
+
+# if num1 > num2:
+#     print("first number is greater then the second number")
+# elif num1 == num2:
+#     print("first number and the second number are the same")
+# else:
+#     print("second number is greater then the first number")
+
+# name = input("Enter your name: ")
+
+# if name == "Aleksandre":
+#     print("Mentor")
+# else:
+#     print("Student")
+
+# name = input("Enter your name: ")
+
+# if name == "ana":
+#     print(3)
+# else:
+#     print("idk")
+
+# import random
+
+# num = int(input("Enter a number: "))
+
+# secret_num = random.choice(range(1, 11))
+
+# while num == secret_num:
+#     print("lose")
+#     num = int(input("Enter a number: "))
+
+# print("win")
+# quit()

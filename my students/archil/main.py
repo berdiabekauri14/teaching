@@ -18,6 +18,24 @@
 # 2. =
 # 3. ცვლადის მნიშვნელობა
 
-num = "berdia"
+# num = "berdia"
 
-print(num)
+# print(num)
+
+# mom = "kristi"
+# dad = "beqa"
+# brother1 = "saba"
+# brother2 = "luka"
+# brother3 = "gio"
+# sister = "laliko"
+
+# print(mom)
+# print(dad)
+# ...
+
+# print(2 + 2)
+
+# num1 = 2
+# num2 = 2
+
+# print(num1 + num2)

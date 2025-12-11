@@ -6,3 +6,15 @@
 # while i <= 100: 
 #     print(i)
 #     i += 3
+
+# დაწერეთ კოდი, რომელიც შეამოწმებს რომ მომხმარებლის შემოტანილი რიცხვი დადებითია თუ უარყოფითი, სხვა შემთხვევაში თუ მომხმარებელმა შემოიტანა 0 გამოუტანოთ "none"
+
+# num = int(input("Enter a number: "))
+
+# if num > 0:
+#     print("positive")
+# elif num == 0:
+#     print("none")
+# else:
+#     print("negative")
+

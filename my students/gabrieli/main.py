@@ -349,3 +349,16 @@
 
 # print("win")
 # quit()
+
+# import random
+
+# num = int(input("Enter a number: "))
+
+# secret_num = random.choice(range(1, 11))
+
+# while num == secret_num:
+#     print("No it not that number!")
+#     num = int(input("Enter a number: "))
+
+# print("You win!")
+# quit()

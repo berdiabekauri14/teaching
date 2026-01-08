@@ -362,3 +362,14 @@
 
 # print("You win!")
 # quit()
+
+# animals = ["cat", "dog", "bird"]
+
+# len - length - სიგრძე
+
+# print(animals[0])
+# print(animals[1])
+# print(animals[2])
+# print(len(animals))
+
+# print("berdia"[::-1])

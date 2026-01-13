@@ -39,3 +39,32 @@
 # num2 = 2
 
 # print(num1 + num2)
+
+# 1) შექმენით ცვლადი რომელსაც lom დავარქმევ და მიანიჭეთ თქვენი სახელები მაგალითად: "davit"
+
+# "gio" თქვენ რაც გქვიათ 
+
+# lom = "archil"
+
+# print(lom)
+
+# 2) lom  განვასახლოთ და მინვაიჭოთ 55 ის მნიშვნელობა
+# print -ით გამოიძახეთ lom
+
+# lom = 55
+
+# print(lom)
+
+# mom, dad, brother = "kristi", "beqa", "saba" # ...
+
+# print(mom)
+# print(dad)
+# print(brother)
+
+# print("berdia")
+# print(50)
+# print(2.5)
+
+# age = 12
+
+# print(age + 1)
